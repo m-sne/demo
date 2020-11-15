@@ -2,7 +2,6 @@ import streamlit as st
 from dataset import Dataset
 import random
 from PIL import Image
-from pymongo import MongoClient
 
 
 def main():
